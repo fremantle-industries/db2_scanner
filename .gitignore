@@ -1,0 +1,7 @@
+build
+cmake-build-debug
+.idea
+.DS_Store
+db2/db2
+.clang-format
+db2
